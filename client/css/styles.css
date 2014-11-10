@@ -4,6 +4,19 @@
     border-radius: 0 !important;
     font-family: calibri;
 }
+
+.jumbotron {
+    padding: 0.3em 0.4em;
+h2 {
+    font-size: 0.5em;
+}
+p {
+    font-size: 1em;
+.btn {
+    padding: 0.3em;
+}
+}
+}
 .strike span {
     text-decoration: line-through;
     color: #ccc;
@@ -16,6 +29,9 @@
     font-size: 21px;
     border-bottom: 1px solid;
 }
+
+body { padding-bottom: 70px; }
+
 .todo .btn {
     margin-left: 5px;
     width: 72px;
