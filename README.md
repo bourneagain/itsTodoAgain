@@ -17,6 +17,6 @@ NodeJS
 [itsTODOAgain! ](https://itstodoagain.herokuapp.com/)
 
 ### in the pipeline
-Adding authentication using passport
-Individual user todo
+* Adding authentication using passport
+* Individual user todo
 
