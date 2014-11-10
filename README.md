@@ -19,4 +19,7 @@ NodeJS
 ### in the pipeline
 * Adding authentication using passport
 * Individual user todo
+* Using Angular Materialistic design 
+* Sockets IO for live updates of friend's list etc
+* Explore FIREBASE
 
