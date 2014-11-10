@@ -1,12 +1,28 @@
 {
-  "name": "TodoApp",
+  "name": "itsTODOAgain",
   "version": "0.1.0",
-  "description": "A MEAN stack Todo App",
+  "description": "ItsTODOAgain",
   "private": true,
   "dependencies": {
     "jquery": "~2.1.1",
     "bootstrap": "~3.2.0",
     "angular": "~1.2.23",
     "angular-route": "~1.2.23"
-  }
+  },
+  "homepage": "https://github.com/bourneagain/itsTodoAgain",
+  "authors": [
+    "Shyam Rajendran <samateapple@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ]
 }
