@@ -16,6 +16,8 @@ NodeJS
 
 [itsTODOAgain! ](https://itstodoagain.herokuapp.com/)
 
+![screenshot](https://raw.githubusercontent.com/bourneagain/itsTodoAgain/master/home.png)
+
 ### in the pipeline
 * Adding authentication using passport
 * Individual user todo
